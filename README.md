@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Rafael Rodriguez!
 
-<!--
-**RodriguezRafaelC/RodriguezRafaelC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a college student studying Home Economics and learning programming.  
+💻 I’m currently exploring **Python**, **graphic design**, and **video editing**.  
+🎯 Goals: Become a **top student** and a **creative designer**.  
+🌱 I’m improving my coding skills every day.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 GitHub Stats
+![Rafael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RafaelRodriguez&show_icons=true&theme=tokyonight)
+
+### 🌟 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelRodriguez&layout=compact&theme=tokyonight)
+
+---
+
+### ✨ Fun Fact
+I love mixing creativity with tech — like designing and coding projects that stand out!
