@@ -1,4 +1,4 @@
-###GitHub Statistics
+## My Stats
 
 <div align="center">
 
