@@ -1,4 +1,4 @@
-Hello! my name is # Rafael, a First year BSIT college student
+Hello! my name is **Rafael**, a First year BSIT college student
 I can do sort of things such as:
 * Graphic Designing
 * Video Editing
