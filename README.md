@@ -9,7 +9,7 @@ Programming (still improving).<br>
 
 </div>
   
-![Banner](https://github.com/RodriguezRafaelC/RodriguezRafaelC/issues/1#issue-3648075428)
+![Image](https://github.com/user-attachments/assets/9693f7c4-6e84-455a-87b7-94b52ada29f3)
 
 ## My Stats
 
