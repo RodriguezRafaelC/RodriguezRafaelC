@@ -9,8 +9,7 @@ I can do sort of things such as:
 
 <div align="center">
 
-Programming language im currently learning :
-![Python](https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif)
+![Banner](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 ![Rafael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RodriguezRafaelC&show_icons=true&theme=tokyonight&count_private=true)
 
