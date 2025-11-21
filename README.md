@@ -9,7 +9,7 @@ Programming (still improving).<br>
 
 </div>
   
-![Image](https://github.com/user-attachments/assets/9693f7c4-6e84-455a-87b7-94b52ada29f3)
+![GIF](https://github.com/user-attachments/assets/9693f7c4-6e84-455a-87b7-94b52ada29f3)
 
 ## My Stats
 
