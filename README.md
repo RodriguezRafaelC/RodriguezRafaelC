@@ -5,7 +5,7 @@ I can do sort of things such as:<br>
 Graphic Designing<br>
 Video Editing<br>
 Web Development (still improving)<br>
-Programming (still improving).<br>
+Programming (still improving)<br>
 
 </div>
   
